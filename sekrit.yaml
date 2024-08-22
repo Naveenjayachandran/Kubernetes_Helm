@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: first-secret
+type: Opaque
+data:
+  username:
+  password:
+ 
+---
+# To convert to base64
+username: 'admin'
+password: '4w572$9sns1&!'
+
+

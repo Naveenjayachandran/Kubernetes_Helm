@@ -1,0 +1,3 @@
+create a your own new Helm chart
+
+command: helm create first-chart

@@ -1,1 +1,1 @@
-All About Helm. sample files as been added
+All About Helm. sample files as been adding
